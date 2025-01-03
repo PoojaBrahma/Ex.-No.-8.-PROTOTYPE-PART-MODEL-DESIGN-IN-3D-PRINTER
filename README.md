@@ -45,7 +45,9 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:![image](https://github.com/user-attachments/assets/864270cc-68a9-4205-a768-3b431c03e7a4)
+## Output:
+![empd 3](https://github.com/user-attachments/assets/a4993d34-5396-4c7d-9c67-7c08691190ad)
+
 
 
 ### Name:NIKSHITHA.S
